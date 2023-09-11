@@ -1,0 +1,1 @@
+sudo certbot certonly --webroot --webroot-path /home/dora/docker/docker9-docker/docker/ssl  -d meyram-app.kz
